@@ -1,0 +1,6 @@
+namespace nTECS2Mruby{
+  celltype tsDynamic {
+    call sTECS2MrubyVM cMethodCall;  
+    entry ::sDynamic eEnt;
+  };
+};
