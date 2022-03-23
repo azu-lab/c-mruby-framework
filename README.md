@@ -12,7 +12,7 @@ TECSでmrubyのボタンサンプルプログラムを動かす
 
 #### 環境構築
 1. Cygwinインストール
-<br>
+
 ・ Ruby
 <br>
 ・ GNU MAKE
