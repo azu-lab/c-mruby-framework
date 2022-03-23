@@ -34,6 +34,7 @@ Cygwin及びクロスコンパイラのインストールは[こちら](https://
 <br>
    -Makefile(58行目)を編集し、SDカードのドライブ名を設定。
 ![ドライブ](https://user-images.githubusercontent.com/71630047/159626217-238c4452-e63c-4217-9343-b6ef4d4d464c.png)
+<br>
 2. 設定後ビルドを行う。
 ```
 make tecs
@@ -42,6 +43,7 @@ make
 の順番。
 このような画面になれば成功。
 ![手順２](https://user-images.githubusercontent.com/71630047/159627117-14b902ba-b284-4d06-af39-853a84115a28.png)
+<br>
 3. mrubyバイトコードの作成
 <br>
 ・ mruby-on-ev3rt+tecs_package-beta1.0.1/hr-tecs/workspace/mruby_appに移動。
