@@ -1,5 +1,5 @@
 # c-mruby-framework
-このc-mruby-frameworkはmruby-on-ev3rt+tecsを元に作成しました。
+このc-mruby-frameworkは[mruby-on-ev3rt+tecs](https://www.toppers.jp/tecs.html#mruby_ev3rt)を元に作成しました。
 <br>
 従来のmruby-on-ev3rt+tecsではmrubyからTECSを操作する(呼び出す)ことは実現されていました。
 <br>
