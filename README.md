@@ -48,8 +48,7 @@ make
 <br>
 ・ mruby-on-ev3rt+tecs_package-beta1.0.1/hr-tecs/workspace/mruby_appに移動。
 <br>
-・ このディレクトリにボタンサンプルプログラム(dynamic.rb)があるので、mruby
-　 プログラム(dynamic.rb)をコンパイル。
+・ このディレクトリにボタンサンプルプログラム(dynamic.rb)があるので、mrubyプログラム(dynamic.rb)をコンパイル。
 ```
 make
 ```
