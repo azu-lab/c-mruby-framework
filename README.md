@@ -29,7 +29,7 @@ Cygwin及びクロスコンパイラのインストールは[こちら](https://
 
 #### コンパイル手順
 1. Bluetoothローダを含むプラットフォームをビルドし、SDカードにコピー
-<br>
+
 ・ mruby-on-ev3rt+tecs_package-beta1.0.1/hr-tecs/workspace/bluetooth1に移動。
 <br>
    -Makefile(58行目)を編集し、SDカードのドライブ名を設定。
